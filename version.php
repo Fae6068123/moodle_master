@@ -1,7 +1,7 @@
 <?php
 
 // This file is part of Moodle - http://moodle.org/
-//
+// add this line to bring files into moodle repository
 // Moodle is free software: you can redistribute it and/or modify
 // it under the terms of the GNU General Public License as published by
 // the Free Software Foundation, either version 3 of the License, or

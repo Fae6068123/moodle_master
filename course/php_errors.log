@@ -1,0 +1,4 @@
+[10-Apr-2020 09:27:58 UTC] PHP Warning:  require_once(../config.php): failed to open stream: No such file or directory in C:\Apache24\htdocs\moodle\course\view.php on line 5
+[10-Apr-2020 09:27:58 UTC] PHP Fatal error:  require_once(): Failed opening required '../config.php' (include_path='.;c:\php\includes') in C:\Apache24\htdocs\moodle\course\view.php on line 5
+[10-Apr-2020 09:28:03 UTC] PHP Warning:  require_once(../config.php): failed to open stream: No such file or directory in C:\Apache24\htdocs\moodle\course\view.php on line 5
+[10-Apr-2020 09:28:03 UTC] PHP Fatal error:  require_once(): Failed opening required '../config.php' (include_path='.;c:\php\includes') in C:\Apache24\htdocs\moodle\course\view.php on line 5
